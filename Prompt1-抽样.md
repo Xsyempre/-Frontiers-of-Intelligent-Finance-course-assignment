@@ -9,4 +9,4 @@
 
 从 `STK_Violation_Main_第2组.xlsx` 中，使用random_state = 42随机抽取 5% 的样本（`df.sample(frac=0.05, random_state=42)`）。
 
-输出为"benchmark_G02.xlsx"
+输出为"blank_G02.xlsx"
